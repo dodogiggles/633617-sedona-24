@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Дарья Шевцова](https://up.htmlacademy.ru/htmlcss/24/user/633617).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Варганов] (https://htmlacademy.ru/profile/scorn_da).
 
 ---
 
